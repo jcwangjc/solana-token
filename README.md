@@ -2,6 +2,15 @@
 
 记录solana发行平台币的流程。
 
+需要链接一些常规的东西：
+
+* solana钱包，用的最多的是Phantom；
+* solana网络，开发一般用dev（https://solscan.io/?cluster=devnet）；
+* solana-cli，本地创建账号、获取测试币使用；
+* 以及一些其他的区块链基础，比如助记词导如导出等；
+
+注意一下：如果是solana-cli创建的address，创建的时候不要去设置密码，否则Phantom导入的时候会有问题（address不一致）。
+
 ---
 
 ## 为什么选择solana
