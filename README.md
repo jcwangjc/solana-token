@@ -5,7 +5,8 @@
 需要了解一些常规的东西：
 
 * solana钱包，用的最多的是Phantom；
-* solana网络，开发一般用dev（https://solscan.io/?cluster=devnet）；
+* solana开发网络，开发一般用dev（https://api.devnet.solana.com）；
+* solana浏览器，dev（https://solscan.io/?cluster=devnet）；
 * solana-cli，本地创建账号、获取测试币使用；
 * 以及一些其他的区块链基础，比如助记词导如导出等；
 
