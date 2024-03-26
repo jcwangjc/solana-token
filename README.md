@@ -2,7 +2,7 @@
 
 记录solana发行平台币的流程。
 
-需要链接一些常规的东西：
+需要了解一些常规的东西：
 
 * solana钱包，用的最多的是Phantom；
 * solana网络，开发一般用dev（https://solscan.io/?cluster=devnet）；
