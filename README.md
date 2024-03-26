@@ -61,18 +61,6 @@
 ---
 
 * 第四步、编码
-  导包：
-
-```
-"dependencies": {
-    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
-    "@metaplex-foundation/umi": "^0.9.1",
-    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
-    "@solana/web3.js": "^1.90.0"
-  }
-```
-
-编码：
 
 ```
 //引入模块
